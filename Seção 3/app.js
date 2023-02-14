@@ -198,7 +198,7 @@ val = listItem.previousElementSibling;
 
 console.log(val);
 
-CREATING ELEMENTS
+// CREATING ELEMENTS
 
 // Create element
 
